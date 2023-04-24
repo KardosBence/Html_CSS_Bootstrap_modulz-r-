@@ -1,0 +1,28 @@
+.col{
+    margin-block: 44px;
+}
+p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: justify;
+    text-indent: 50px;
+}
+a{
+    color: rgb(0, 104, 69);
+}
+a:hover{
+    color: rgb(0, 61, 41);
+}
+.card{
+    box-shadow: 0px 6px 10px rgb(163, 163, 163);
+}
+.card-img-top{
+    height: 500px;
+    margin-bottom: 10px;
+}
+.card:hover{
+    box-shadow: 0px 8px 10px rgb(116, 116, 116) ;
+}
+#szervizvezeto{
+    box-shadow: 0px 6px 10px rgb(163, 163, 163);
+}
